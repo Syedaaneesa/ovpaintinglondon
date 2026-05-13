@@ -66,7 +66,8 @@ Sanding, priming, filling, and finishing for flawless, long-lasting results.
 
 ##  Developer Information
 
-- **Name:** Syeda Aneesa  
+- **Name:** Syeda Aneesa
+  
 - **Email:** saneesa@zeestmedia.com  
 
 ---
