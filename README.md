@@ -25,22 +25,29 @@ view live website here: [OV Painting London](https://ovpaintinglondon.co.uk/)
 
 ##  Services
 
-### Interior Painting
-Expert wall, ceiling, and woodwork painting for all rooms, kitchens, bathrooms, and offices.
+Interior Painting:
+Professional interior painting services for walls, ceilings, woodwork, kitchens, bathrooms, bedrooms, living areas, and office spaces. We deliver smooth, flawless finishes that refresh and enhance your property's appearance.
 
-### Exterior Painting
-Weather-resistant painting for façades, doors, trims, and outdoor structures, ensuring durability and aesthetic appeal.
 
-### Commercial Painting
-Painting and decorating for offices, shops, retail spaces, and professional interiors, with flexible scheduling to minimize disruption.
+Exterior Painting:
+High-quality exterior painting solutions designed to protect and beautify your property. We use durable, weather-resistant coatings for façades, doors, window frames, trims, fences, and other outdoor surfaces, ensuring long-lasting performance.
 
-### Surface Preparation & Finishing
-Sanding, priming, filling, and finishing for flawless, long-lasting results.
 
-### Additional Services
-- Wallpaper installation and removal  
-- Decorative finishes and color consultation  
-- Post-renovation painting  
+Commercial Painting:
+Reliable painting and decorating services for offices, retail stores, restaurants, commercial buildings, and professional workspaces. Our team works efficiently and offers flexible scheduling to minimize disruption to your business operations.
+
+
+Surface Preparation & Finishing:
+Every successful paint job starts with proper preparation. Our services include sanding, filling, crack repairs, priming, surface treatment, and professional finishing to achieve a durable, high-quality result.
+
+
+Additional Services:
+Wallpaper installation and removal
+Decorative and feature wall finishes
+Colour consultation and paint selection
+Post-renovation and refurbishment painting
+Woodwork painting and refinishing
+Touch-ups and maintenance painting
 
 ---
 
