@@ -7,7 +7,7 @@ OV Painting London delivers premium painting and decorating services throughout 
 
 ##  Live Demo
 
-Visit the live website here: [OV Painting London](https://ovpaintinglondon.co.uk/)
+view live website here: [OV Painting London](https://ovpaintinglondon.co.uk/)
 
 ---
 
