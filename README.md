@@ -1,7 +1,6 @@
 #  OV Painting London Professional Painting & Decorating Services
 
-OV Painting London delivers premium painting and decorating services throughout London for homes, offices, and commercial properties. Combining skilled craftsmanship, attention to detail, and reliable service, we create flawless interior and exterior finishes that enhance the beauty, value, and longevity of every property. Trusted by homeowners, landlords, and businesses, we complete every project with professionalism, precision, and a commitment to excellence.
-
+OV Painting London is a professional and fully responsive website designed to showcase premium painting and decorating services across London for residential, commercial, and office properties. The website highlights the company's expertise in delivering high-quality interior and exterior finishes, emphasizing skilled craftsmanship, attention to detail, and reliable service. With a clean design, intuitive navigation, and optimized performance, visitors can easily explore services, view project portfolios, and request quotes. Built to provide a seamless experience across all devices, the platform reflects the professionalism, precision, and commitment to excellence that have earned OV Painting London the trust of homeowners, landlords, and businesses throughout the city.
 
 ---
 
